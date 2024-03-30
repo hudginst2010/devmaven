@@ -1,0 +1,33 @@
+{
+  "name": "devmaven",
+  "version": "1.0.2",
+  "description": "devmaven",
+  "type": "module",
+  "main": "devmaven.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hudginst2010/devmaven"
+  },
+  "website": "https://github.com/hudginst2010/devmaven.git",
+  "keywords": [
+    "devmaven"
+  ],
+  "author": "hudginst2010",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudginst2010/devmaven/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/hudginst2010/devmaven#readme",
+  "dependencies": {
+    "scriptgenius": "1.0.2",
+    "codewhisperer": "1.0.2",
+    "devscriptor": "1.0.2"
+  }
+}
